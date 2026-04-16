@@ -1,0 +1,19 @@
+{
+  "software-engineer": [
+    "Explain event loop in JavaScript",
+    "What is REST API?",
+    "Difference between var, let, const?",
+    "Explain async/await",
+    "What is MongoDB?"
+  ],
+  "marketing": [
+    "What is digital marketing?",
+    "Explain SEO",
+    "How do you measure campaign success?"
+  ],
+  "designer": [
+    "What is UX?",
+    "Difference between UI and UX?",
+    "Explain design thinking"
+  ]
+}
